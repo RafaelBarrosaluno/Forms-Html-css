@@ -30,14 +30,14 @@ label{
     font-weight: bold;
 }
 input, textarea{
-    width: 100%;
+    width: 90%;
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
 button{
-    width:100%;
+    width:95%;
     padding: 10px;
     background-color: cadetblue;
     color:#fff;
@@ -48,4 +48,9 @@ button{
 button:hover{
     background-color: aquamarine;
 
+}
+footer{
+    display: block;
+  
+    font-weight: bold;
 }
