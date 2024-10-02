@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh; /* Altura da tela */
 }
 
 main{
@@ -18,7 +18,7 @@ main{
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
-    width: 300px;
+    width: 300px; /* Largura da tela */
 }
 h1{
     text-align: center;
@@ -27,11 +27,11 @@ h1{
 label{
     display: block;
     margin-bottom: 5px;
-    font-weight: bold;
+    font-weight: bold; /* Negrito */
 }
 input, textarea{
     width: 90%;
-    padding: 10px;
+    padding: 10px; /* Espaçamento interno */
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
